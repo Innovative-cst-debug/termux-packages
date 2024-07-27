@@ -456,6 +456,7 @@ for package_arch in "${TERMUX_ARCHITECTURES[@]}"; do
 	pull_package dash
 	pull_package diffutils
 	pull_package findutils
+	pull_package openjdk-17
 	pull_package gawk
 	pull_package grep
     pull_package git
