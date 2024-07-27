@@ -23,7 +23,7 @@ TERMUX_PACKAGE_MANAGERS=("apt")
 
 # The repository base urls mapping for package managers.
 declare -A REPO_BASE_URLS=(
-	["apt"]="https://raw.githubusercontent.com/DevAnDroidCoder/aastp/main"
+	["apt"]="https://devandroidcoder.github.io/aastp/"
 )
 
 # The package manager that will be installed in bootstrap.

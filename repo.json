@@ -4,6 +4,6 @@
     "name": "termux-main",
     "distribution": "stable",
     "component": "main",
-    "url": "https://raw.githubusercontent.com/DevAnDroidCoder/aastp/master"
+    "url": "https://devandroidcoder.github.io/aastp/"
   }
 }
